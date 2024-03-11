@@ -27,6 +27,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: SAKTHI PRIYA D
 RegisterNumber: 212222040139
 */
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -80,32 +81,40 @@ print("MAE = ",mae)
 
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
-
+```
 ## Output:
 df.head()
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/08fc5efe-9921-4ee6-b20e-d64ebe1076a3)
 
 df.tail()
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/f0173a1a-81ba-4bc8-9276-aa13895d3d29)
 
 Array value of X
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/d5b9179f-8ade-4160-ad0d-d32087bd29e8)
 
 Array value of Y
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/866f08f1-00c3-4d58-9f0f-44bce34e8ac0)
 
 Values of y preidction
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/47266174-7ed8-404f-a488-2de2c3fe1466)
 
 Array values of Y test
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/966ea121-2047-4077-8ea9-46e9b874a012)
 
 Training and Testing set
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/9d75a309-e387-4c21-8071-2a16a946e0a0)
 
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/d9e2945e-808a-4ef7-911f-7af6a0eddf16)
 
 Values of MSE,MAE and RMSE
+
 ![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/42bb0ec8-24ce-48be-9612-aa4c0dec772a)
 
 ## Result:
