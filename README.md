@@ -83,39 +83,21 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
-df.head()
 
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/08fc5efe-9921-4ee6-b20e-d64ebe1076a3)
+1)HEAD:
+![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/573fe54b-afde-4c49-aa1a-aa22b6fba30f)
 
-df.tail()
+2)GRAPH OF PLOTTED DATA:
 
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/f0173a1a-81ba-4bc8-9276-aa13895d3d29)
+![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/6d7e062a-1cb1-4785-b674-235339ecd805)
 
-Array value of X
+3)TRAINED DATA:
 
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/d5b9179f-8ade-4160-ad0d-d32087bd29e8)
+![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/5ea11bb8-4784-4ffb-8029-50ec60feccd2)
 
-Array value of Y
+4)LINE OF REGRESSION:
 
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/866f08f1-00c3-4d58-9f0f-44bce34e8ac0)
-
-Values of y preidction
-
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/47266174-7ed8-404f-a488-2de2c3fe1466)
-
-Array values of Y test
-
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/966ea121-2047-4077-8ea9-46e9b874a012)
-
-Training and Testing set
-
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/9d75a309-e387-4c21-8071-2a16a946e0a0)
-
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/d9e2945e-808a-4ef7-911f-7af6a0eddf16)
-
-Values of MSE,MAE and RMSE
-
-![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/42bb0ec8-24ce-48be-9612-aa4c0dec772a)
+![image](https://github.com/sakthipriyadhanusu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393194/93a77e9b-63ef-4216-8532-108070f98fac)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
